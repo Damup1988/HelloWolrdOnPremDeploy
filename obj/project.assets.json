@@ -8,24 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SafarovDT\\.nuget\\packages\\": {}
+    "C:\\Users\\manul\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_ONEDRIVE\\OneDrive\\_Coding\\_Projects\\c_sharp\\HelloWorldOnPremDeploy\\HelloWorldOnPremDeploy.csproj",
+      "projectUniqueName": "C:\\Users\\manul\\Source\\Repos\\Damup1988\\HelloWolrdOnPremDeploy\\HelloWorldOnPremDeploy.csproj",
       "projectName": "HelloWorldOnPremDeploy",
-      "projectPath": "D:\\_ONEDRIVE\\OneDrive\\_Coding\\_Projects\\c_sharp\\HelloWorldOnPremDeploy\\HelloWorldOnPremDeploy.csproj",
-      "packagesPath": "C:\\Users\\SafarovDT\\.nuget\\packages\\",
-      "outputPath": "D:\\_ONEDRIVE\\OneDrive\\_Coding\\_Projects\\c_sharp\\HelloWorldOnPremDeploy\\obj\\",
+      "projectPath": "C:\\Users\\manul\\Source\\Repos\\Damup1988\\HelloWolrdOnPremDeploy\\HelloWorldOnPremDeploy.csproj",
+      "packagesPath": "C:\\Users\\manul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\manul\\Source\\Repos\\Damup1988\\HelloWolrdOnPremDeploy\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\SafarovDT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\manul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
