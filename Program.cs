@@ -6,7 +6,7 @@ namespace HelloWorldOnPremDeploy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Damir and World!");
+            Console.WriteLine("Hello Damir and World! YEAH!");
             Console.ReadLine();
         }
     }
